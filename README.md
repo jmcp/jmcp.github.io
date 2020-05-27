@@ -1,6 +1,6 @@
 This repository contains links to my articles, blog posts and github repos.
 
-You can find out more about me at [https://www.linkedin.com/in/jamescmcpherson]
+You can find out more about me at [https://www.linkedin.com/in/jamescmcpherson](https://www.linkedin.com/in/jamescmcpherson)
 
 
 GitHub repos
